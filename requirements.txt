@@ -1,0 +1,6 @@
+flask
+cohere
+transformers
+faiss-cpu
+numpy
+pytorch
